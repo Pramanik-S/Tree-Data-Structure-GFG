@@ -1,0 +1,34 @@
+Traversals :
+
+1.Tree Traversals
+2.Inorder Tree Traversal without Recursion
+3.Inorder Tree Traversal without recursion and without stack!
+4.Print Postorder traversal from given Inorder and Preorder traversals
+5.Find postorder traversal of BST from preorder traversal
+6.Find all possible binary trees with given Inorder Traversal
+7.Replace each node in binary tree with the sum of its inorder predecessor and successor
+8.Populate Inorder Successor for all nodes
+9.Inorder Successor of a node in Binary Tree
+10.Find n-th node of inorder traversal
+11.Find n-th node in Postorder traversal of a Binary Tree
+12.Level Order Tree Traversal
+13.Level order traversal in spiral form
+14.Level order traversal line by line
+15.Level order traversal with direction change after every two levels
+16.Reverse Level Order Traversal
+17.Reverse tree path
+18.Perfect Binary Tree Specific Level Order Traversal
+19.Perfect Binary Tree Specific Level Order Traversal | Set 2
+20.Reverse alternate levels of a perfect binary tree
+21.Morris traversal for Preorder
+22.Iterative Preorder Traversal
+23.Iterative Postorder Traversal | Set 1 (Using Two Stacks)
+24.Iterative Postorder Traversal | Set 2 (Using One Stack)
+25.Postorder traversal of Binary Tree without recursion and without stack
+26.Diagonal Traversal of Binary Tree
+27.Iterative diagonal traversal of binary tree
+28.Boundary Traversal of binary tree
+29.Density of Binary Tree in One Traversal
+30.Calculate depth of a full Binary tree from Preorder
+31.Number of Binary Trees for given Preorder Sequence length
+32.Modify a binary tree to get Preorder traversal using right pointers only
