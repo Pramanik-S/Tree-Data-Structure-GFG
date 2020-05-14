@@ -1,0 +1,37 @@
+Construction & Conversion:
+
+1.Construct Tree from given Inorder and Preorder traversals
+2.Construct a tree from Inorder and Level order traversals
+3.Construct Complete Binary Tree from its Linked List Representation
+4.Construct a complete binary tree from given array in level order fashion
+5.Construct Full Binary Tree from given preorder and postorder traversals
+6.Construct Full Binary Tree using its Preorder traversal and Preorder traversal of its mirror tree
+7.Construct a special tree from given preorder traversal
+8.Construct tree from ancestor matrix
+9.Construct Ancestor Matrix from a Given Binary Tree
+10.Construct Special Binary Tree from given Inorder traversal
+11.Construct Binary Tree from given Parent Array representation
+12.Construct a Binary Tree from Postorder and Inorder
+13.Create a Doubly Linked List from a Ternary Tree
+14.Creating a tree with Left-Child Right-Sibling Representation
+15.Prufer Code to Tree Creation
+16.If you are given two traversal sequences, can you construct the binary tree?
+17.Construct the full k-ary tree from its preorder traversal
+18.Construct Binary Tree from String with bracket representation
+19.Linked complete binary tree & its creation
+20.Convert a given Binary Tree to Doubly Linked List | Set 1
+21.Convert a given Binary Tree to Doubly Linked List | Set 2
+22.Convert a given Binary Tree to Doubly Linked List | Set 3
+23.Convert a given Binary Tree to Doubly Linked List | Set 4
+24.Convert an arbitrary Binary Tree to a tree that holds Children Sum Property
+25.Convert left-right representation of a binary tree to down-right
+26.Convert a given tree to its Sum Tree
+27.Change a Binary Tree so that every node stores sum of all nodes in left subtree
+28.Write an Efficient Function to Convert a Binary Tree into its Mirror Tree
+29.Convert a Binary Tree into Doubly Linked List in spiral fashion
+30.Convert a Binary Tree to a Circular Doubly Link List
+31.Convert a tree to forest of even nodes
+32.Convert a given Binary tree to a tree that holds Logical AND property
+33.Convert Ternary Expression to a Binary Tree
+34.Flip Binary Tree
+35.Minimum swap required to convert binary tree to binary search tree
